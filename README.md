@@ -1,7 +1,7 @@
 # e_commerce backend
 
 ### Screenshot
-![screenshot](./assets/ecommerce.png)
+![screenshot](./Assets/ecommerce.png)
 
 <a name='license'></a>
   ## License
